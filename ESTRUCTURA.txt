@@ -1,0 +1,90 @@
+📄 .gitignore
+📁 00-INICIO
+  📄 DIA-01.md
+  📄 EMPIEZA-AQUI.md
+  📄 PLAN-30-DIAS.md
+  📄 RUTA-10-ANOS.md
+  📄 RUTA-12-MESES.md
+  📄 RUTA-COMPLETA-ORIGINAL.md
+📁 01-FUNDAMENTOS
+  📁 01-linux
+    📄 README.md
+    📄 guia-20-comandos.md
+  📁 02-redes
+    📄 README.md
+  📁 03-git-github
+    📄 README.md
+  📁 04-ingles-tecnico
+    📄 README.md
+📁 02-PROGRAMACION
+  📁 01-python
+    📄 README.md
+    📄 ejercicios.py
+  📁 02-bash
+    📄 README.md
+  📁 03-powershell
+    📄 README.md
+📁 03-SISTEMAS
+  📁 01-windows
+    📄 README.md
+  📁 02-active-directory
+    📄 README.md
+📁 04-SEGURIDAD-WEB
+  📁 01-http
+    📄 README.md
+  📁 02-apis
+    📄 README.md
+  📁 03-bases-de-datos
+    📄 README.md
+  📁 04-owasp
+    📄 README.md
+  📄 README.md
+📁 05-BLUE-TEAM
+  📁 01-logs
+  📁 02-deteccion
+  📁 03-respuesta-incidentes
+    📄 plantilla-incidente.md
+  📄 README.md
+📁 06-CLOUD-DEVSECOPS
+  📁 01-cloud
+  📁 02-contenedores
+  📁 03-ci-cd
+  📄 README.md
+📁 07-SEGURIDAD-IA
+  📄 README.md
+📁 08-DFIR-MALWARE-SEGURO
+  📄 README.md
+📁 09-CRIPTOGRAFIA
+  📄 README.md
+📁 10-OT-INDUSTRIAL
+  📄 README.md
+📁 11-PROYECTOS
+  📁 01-analizador-logs
+    📄 README.md
+    📄 analizador.py
+    📄 datos.log
+  📁 02-integridad-archivos
+    📄 README.md
+  📁 03-laboratorio-red
+    📄 diagrama.md
+📁 12-PORTAFOLIO
+  📄 README.md
+📁 13-CERTIFICACIONES
+  📄 README.md
+📁 14-PLANTILLAS
+  📄 README-proyecto.md
+  📄 notas-tema.md
+  📄 revision-ia.md
+📁 15-PROGRESO
+  📁 mensual
+    📄 MES-01.md
+  📁 semanal
+    📄 SEMANA-01.md
+📁 16-RECURSOS
+  📄 PREGUNTAS-PARA-IA.md
+📄 README.md
+📁 laboratorio
+  📁 capturas
+  📁 datos-sinteticos
+  📁 notas
+📄 setup.sh

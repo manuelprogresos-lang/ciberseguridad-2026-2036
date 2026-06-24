@@ -1,0 +1,15 @@
+- qué aprendiste;
+Aprendoi lo comandos
+ls 
+ls -la
+cd 
+pwd
+cd ../..
+
+- qué comando te costó;
+Me costo me cuesta es entendre creo que la variable de como entender el -p -la eso se que cada uno 
+tiene un porque y como por eso creo que lo tengoq que aentender
+
+
+- qué quieres repetir mañana.
+Si probablemnte lo quiera repetir!
